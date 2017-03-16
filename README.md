@@ -35,7 +35,7 @@ func main() {
 ```
 
 ## Output
-Output will be saved ad ngram.csv
+Output will be saved as ngram.csv
 ```console
 aku,kamu,kita,dia,mereka,kata
 2,1,0,0,0,0
