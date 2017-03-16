@@ -34,6 +34,17 @@ func main() {
 }
 ```
 
+## Input
+A file which each line is a sentences that want to be representated as unigram
+```console
+aku kamu aku
+kita dia kamu
+dia aku mereka
+mereka kita kata
+dia aku kita
+```
+
+
 ## Output
 Output will be saved as ngram.csv
 ```console
